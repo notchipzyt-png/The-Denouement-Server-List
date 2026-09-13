@@ -3,10 +3,34 @@
     "name": "Denouement",
     "author": "Synactive GD",
     "creators": [],
-    "verifier": "Obey",
-    "verification": "https://www.youtube.com/watch?v=wl2M7Gv0gg0",
+    "verifier": "Hotdoggs",
+    "verification": "https://youtu.be/o5TR_2FIv3g?si=mXCJefEBegj7UA0m",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+                                      {
+            "user": "KiwiKut",
+            "link": "https://www.youtube.com/watch?v=ye0-tZHVUsY&t=25s",
+            "percent": 100,
+            "hz": 360
+                },
+                                              {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=Tmu9Brf3ZZ0",
+            "percent": 100,
+            "hz": 360
+                },
+                                                      {
+            "user": "NotChipz",
+            "link": "https://youtu.be/_9pd_Uxn_lw?si=tvVGAkPXaaNrm2sS",
+            "percent": 100,
+            "hz": 480
+                },
+                                                             {
+            "user": "Kinger",
+            "link": "https://youtu.be/tIVDbrQ4m4g?si=HKHbz0PRJPAe7Rio",
+            "percent": 100,
+            "hz": 240
+                }
     ]
 }
