@@ -1,0 +1,18 @@
+{
+    "id": 148753618,
+    "name": "Kinga Wave",
+    "author": "NotChipz",
+    "creators": ["NotChipz"],
+    "verifier": "Kinger",
+    "verification": "https://youtu.be/mEtl-yv_eCw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                     {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=d6mXz8qRzqI",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}
